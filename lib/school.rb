@@ -7,9 +7,5 @@ class School
   roster = {}
  end
 
- def add_student(name, grade)
-   {#{grade} =. [#"name"]
-end
+ end
   
-  
- school = School.new("Bayside High School")
