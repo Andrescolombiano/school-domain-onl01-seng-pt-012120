@@ -8,7 +8,7 @@ class School
  end
  
  def add_student (name, grade)
-   roster[grade]= name.each do
+   @roster[grade]= [name].each do
 end
    
 
